@@ -1,4 +1,5 @@
-![Header](./github_header.png)
+![Header](https://github.com/sabyasachi008/sabyasachi008/assets/123227102/ff4be0af-8852-48ed-8c23-a6e7ae30ef9d)
+
 <h1 align="center">Hi 👋, I'm Sabyasachi Ghosh</h1>
 <h3 align="center">Student at KIIT</h3>
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
