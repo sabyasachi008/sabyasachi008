@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/savya9990p" target="blank"><img src="https://img.shields.io/twitter/follow/savya9990p?logo=twitter&style=for-the-badge" alt="savya9990p" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, AI**
+- 🌱 I’m currently learning **Generative AI**
 
 - 📫 How to reach me **sabyasachighosh008@gmail.com**
 
